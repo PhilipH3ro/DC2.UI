@@ -19,10 +19,7 @@ namespace DC2.UI.Data
                 answ.SetAsInvalid();
             }
 
-
-            return answ;
-
-
+          return answ;
         }
     }
 
